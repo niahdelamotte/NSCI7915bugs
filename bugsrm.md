@@ -1,4 +1,0 @@
-# NSCI7915bugs
-First repository on Github for setting up with R studio for NSCI7915 preregistration assignment.
-Available research indicates that climate change is predicted to affect the life cycles and traits of species across the globe. Additionally, species that they depend on can contribute to these effects as well. We will investigate the effects of predicted increasing temperatures on a native Australian insect, Leptocoris tagalicus, by tracking their development time and body measurements at maturity at three different temperature treatments. Within each temperature treatment, the bugs will be fed a diet of either native or invasive plants.
-L. tagalicus is expected to develop at a faster rate and have a smaller adult body size when exposed to increasing temperatures and to a native plant diet. We predict that together, a native diet and high temperature treatment will interact to decrease development time and body size further.
